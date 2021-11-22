@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.Interface
+namespace Factory_Pattern.Interface
 {
     /// <summary>
     /// 图形接口 实现图形功能

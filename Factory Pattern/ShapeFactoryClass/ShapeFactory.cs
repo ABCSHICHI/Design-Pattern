@@ -1,12 +1,12 @@
-﻿using Design_Pattern.EntityClass;
-using Design_Pattern.Interface;
+﻿using Factory_Pattern.EntityClass;
+using Factory_Pattern.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.ShapeFactoryClass
+namespace Factory_Pattern.ShapeFactoryClass
 {
     /// <summary>
     /// 图形工厂， 生成基于给定信息的实体类对象

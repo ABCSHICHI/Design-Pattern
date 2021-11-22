@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Design_Pattern.Interface;
-using Design_Pattern.ShapeFactoryClass;
-namespace Design_Pattern
+using Factory_Pattern.Interface;
+using Factory_Pattern.ShapeFactoryClass;
+namespace Factory_Pattern
 {
     class FactoryPatternDemo
     {

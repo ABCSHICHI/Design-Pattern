@@ -1,11 +1,11 @@
-﻿using Design_Pattern.Interface;
+﻿using Factory_Pattern.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Pattern.EntityClass
+namespace Factory_Pattern.EntityClass
 {
     /// <summary>
     /// 正方形类 实体类
