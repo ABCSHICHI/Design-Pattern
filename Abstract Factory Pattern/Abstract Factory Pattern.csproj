@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EntityClass\Circle.cs" />
-    <Compile Include="EntityClass\Rectangle.cs" />
-    <Compile Include="EntityClass\Square.cs" />
+    <Compile Include="AbstractClass\AbstractFactory.cs" />
+    <Compile Include="AbstractClass\ColorFactory.cs" />
+    <Compile Include="AbstractClass\ShapeFactory.cs" />
+    <Compile Include="EntityClass\ShapeClass\Circle.cs" />
+    <Compile Include="EntityClass\ColorClass\Blue.cs" />
+    <Compile Include="EntityClass\ColorClass\Green.cs" />
+    <Compile Include="EntityClass\ColorClass\Red.cs" />
+    <Compile Include="EntityClass\ShapeClass\Rectangle.cs" />
+    <Compile Include="EntityClass\ShapeClass\Square.cs" />
+    <Compile Include="Interface\Color.cs" />
     <Compile Include="Interface\Shape.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Producer\FactoryProducer.cs" />
+    <Compile Include="AbstractFactoryPatternDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

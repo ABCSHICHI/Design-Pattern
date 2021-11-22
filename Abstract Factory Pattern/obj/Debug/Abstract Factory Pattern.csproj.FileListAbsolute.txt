@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe.config
+F:\设计模式\Design Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.exe
+F:\设计模式\Design Pattern\Abstract Factory Pattern\bin\Debug\Abstract Factory Pattern.pdb
+F:\设计模式\Design Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.exe
+F:\设计模式\Design Pattern\Abstract Factory Pattern\obj\Debug\Abstract Factory Pattern.pdb
