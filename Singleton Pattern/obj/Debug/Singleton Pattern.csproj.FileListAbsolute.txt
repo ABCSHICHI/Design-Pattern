@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe.config
+F:\设计模式\Design Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.exe
+F:\设计模式\Design Pattern\Singleton Pattern\bin\Debug\Singleton Pattern.pdb
+F:\设计模式\Design Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.exe
+F:\设计模式\Design Pattern\Singleton Pattern\obj\Debug\Singleton Pattern.pdb
