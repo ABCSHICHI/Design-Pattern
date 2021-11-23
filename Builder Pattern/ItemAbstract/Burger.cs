@@ -13,10 +13,7 @@ namespace Builder_Pattern.ItemAbstract
     /// </summary>
     public abstract class Burger : Item
     {
-        public string Name()
-        {
-            throw new NotImplementedException();
-        }
+        public abstract string Name();
 
         public Packing Packing()
         {

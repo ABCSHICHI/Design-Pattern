@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe.config
+F:\设计模式\Design Pattern\Builder Pattern\bin\Debug\Builder Pattern.exe
+F:\设计模式\Design Pattern\Builder Pattern\bin\Debug\Builder Pattern.pdb
+F:\设计模式\Design Pattern\Builder Pattern\obj\Debug\Builder Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Builder Pattern\obj\Debug\Builder Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Builder Pattern\obj\Debug\Builder Pattern.exe
+F:\设计模式\Design Pattern\Builder Pattern\obj\Debug\Builder Pattern.pdb

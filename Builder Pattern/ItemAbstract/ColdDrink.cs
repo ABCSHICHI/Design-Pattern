@@ -11,12 +11,9 @@ namespace Builder_Pattern.ItemAbstract
     /// <summary>
     /// 冷饮类
     /// </summary>
-    public abstract class ColorDrink : Item
+    public abstract class ColdDrink : Item
     {
-        public string Name()
-        {
-            throw new NotImplementedException();
-        }
+        public abstract string Name();
 
         public Packing Packing()
         {
