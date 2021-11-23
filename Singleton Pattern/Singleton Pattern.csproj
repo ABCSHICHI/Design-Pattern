@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\Singleton_double_lock.cs" />
+    <Compile Include="Common\Singleton_not_safe.cs" />
+    <Compile Include="Common\Singleton_safe.cs" />
+    <Compile Include="Common\Singleton_simple.cs" />
+    <Compile Include="Common\Singleton_WholeLazy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Common\Singleton.cs" />
     <Compile Include="SingletonPatternDemo.cs" />
