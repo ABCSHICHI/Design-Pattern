@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Prototype Pattern\bin\Debug\Prototype Pattern.exe.config
+F:\设计模式\Design Pattern\Prototype Pattern\bin\Debug\Prototype Pattern.exe
+F:\设计模式\Design Pattern\Prototype Pattern\bin\Debug\Prototype Pattern.pdb
+F:\设计模式\Design Pattern\Prototype Pattern\obj\Debug\Prototype Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Prototype Pattern\obj\Debug\Prototype Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Prototype Pattern\obj\Debug\Prototype Pattern.exe
+F:\设计模式\Design Pattern\Prototype Pattern\obj\Debug\Prototype Pattern.pdb
