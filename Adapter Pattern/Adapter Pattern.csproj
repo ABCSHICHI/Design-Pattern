@@ -7,7 +7,7 @@
     <ProjectGuid>{4A2EA8DF-BCFF-4454-98CB-77FE052BA3EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Adapter_Pattern</RootNamespace>
-    <AssemblyName>Adapter_Pattern</AssemblyName>
+    <AssemblyName>Adapter Pattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AudioPlayer.cs" />
+    <Compile Include="MediaInterface\Adapter\MediaAdapter.cs" />
+    <Compile Include="MediaInterface\AdvanceMediaPlayer.cs" />
+    <Compile Include="MediaInterface\Entity\Mp4Player.cs" />
+    <Compile Include="MediaInterface\Entity\VlcPlayer.cs" />
+    <Compile Include="MediaInterface\MediaPlayer.cs" />
+    <Compile Include="AdapterPatternDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
