@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe.config
+F:\设计模式\Design Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.exe
+F:\设计模式\Design Pattern\Bridge Pattern\bin\Debug\Bridge Pattern.pdb
+F:\设计模式\Design Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.exe
+F:\设计模式\Design Pattern\Bridge Pattern\obj\Debug\Bridge Pattern.pdb
