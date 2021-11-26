@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AudioPlayer.cs" />
-    <Compile Include="MediaInterface\Adapter\MediaAdapter.cs" />
-    <Compile Include="MediaInterface\AdvanceMediaPlayer.cs" />
-    <Compile Include="MediaInterface\Entity\Mp4Player.cs" />
-    <Compile Include="MediaInterface\Entity\VlcPlayer.cs" />
-    <Compile Include="MediaInterface\MediaPlayer.cs" />
+    <Compile Include="Adapter\AudioPlayer.cs" />
+    <Compile Include="Adapter\MediaAdapter.cs" />
+    <Compile Include="Memory\AdvanceMediaPlayer.cs" />
+    <Compile Include="Memory\Entity\Mp4Player.cs" />
+    <Compile Include="Memory\Entity\VlcPlayer.cs" />
+    <Compile Include="Adapter\MediaPlayer.cs" />
     <Compile Include="AdapterPatternDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
