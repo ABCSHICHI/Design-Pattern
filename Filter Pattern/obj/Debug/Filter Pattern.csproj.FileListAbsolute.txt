@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Filter Pattern\bin\Debug\Filter Pattern.exe.config
+F:\设计模式\Design Pattern\Filter Pattern\bin\Debug\Filter Pattern.exe
+F:\设计模式\Design Pattern\Filter Pattern\bin\Debug\Filter Pattern.pdb
+F:\设计模式\Design Pattern\Filter Pattern\obj\Debug\Filter Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Filter Pattern\obj\Debug\Filter Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Filter Pattern\obj\Debug\Filter Pattern.exe
+F:\设计模式\Design Pattern\Filter Pattern\obj\Debug\Filter Pattern.pdb

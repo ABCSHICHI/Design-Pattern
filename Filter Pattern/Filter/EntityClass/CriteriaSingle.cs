@@ -13,7 +13,7 @@ namespace Filter_Pattern.Filter.EntityClass
             List<Person> singlePersons = new List<Person>();
             foreach (Person item in person)
             {
-                if (item.GetGender().Equals("SINGLE"))
+                if (item.GetMaritalStatus().Equals("Single"))
                 {
                     singlePersons.Add(item);
                 }

@@ -7,7 +7,7 @@
     <ProjectGuid>{F46BE7F2-2637-4914-9451-040E591AABDA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Filter_Pattern</RootNamespace>
-    <AssemblyName>Filter_Pattern</AssemblyName>
+    <AssemblyName>Filter Pattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Filter\EntityClass\AndCriteria.cs" />
+    <Compile Include="Filter\EntityClass\CriteriaFemale.cs" />
+    <Compile Include="Filter\EntityClass\CriteriaMale.cs" />
+    <Compile Include="Filter\EntityClass\CriteriaSingle.cs" />
+    <Compile Include="Filter\EntityClass\OrCriteria.cs" />
+    <Compile Include="Filter\ICriteria.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="FilterPatternDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
