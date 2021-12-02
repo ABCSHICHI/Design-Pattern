@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter Pattern", "Filter Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite Pattern", "Composite Pattern\Composite Pattern.csproj", "{8858FADB-83B6-4613-88E7-8E34FC4D3C9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator Pattern", "Decorator Pattern\Decorator Pattern.csproj", "{241A62F0-1879-4B95-8668-3B7C6A90E224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{8858FADB-83B6-4613-88E7-8E34FC4D3C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8858FADB-83B6-4613-88E7-8E34FC4D3C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8858FADB-83B6-4613-88E7-8E34FC4D3C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241A62F0-1879-4B95-8668-3B7C6A90E224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241A62F0-1879-4B95-8668-3B7C6A90E224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241A62F0-1879-4B95-8668-3B7C6A90E224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241A62F0-1879-4B95-8668-3B7C6A90E224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
