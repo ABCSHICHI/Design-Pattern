@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.exe.config
+F:\设计模式\Design Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.exe
+F:\设计模式\Design Pattern\Flyweight Pattern\bin\Debug\Flyweight Pattern.pdb
+F:\设计模式\Design Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.exe
+F:\设计模式\Design Pattern\Flyweight Pattern\obj\Debug\Flyweight Pattern.pdb
