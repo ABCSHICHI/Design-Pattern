@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Facade Pattern\bin\Debug\Facade Pattern.exe.config
+F:\设计模式\Design Pattern\Facade Pattern\bin\Debug\Facade Pattern.exe
+F:\设计模式\Design Pattern\Facade Pattern\bin\Debug\Facade Pattern.pdb
+F:\设计模式\Design Pattern\Facade Pattern\obj\Debug\Facade Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Facade Pattern\obj\Debug\Facade Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Facade Pattern\obj\Debug\Facade Pattern.exe
+F:\设计模式\Design Pattern\Facade Pattern\obj\Debug\Facade Pattern.pdb
