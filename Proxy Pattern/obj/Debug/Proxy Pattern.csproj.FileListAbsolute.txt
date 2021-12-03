@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe.config
+F:\设计模式\Design Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe
+F:\设计模式\Design Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.pdb
+F:\设计模式\Design Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.exe
+F:\设计模式\Design Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.pdb
