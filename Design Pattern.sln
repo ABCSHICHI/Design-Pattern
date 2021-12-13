@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command Pattern", "Command 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter Pattern", "Interpreter Pattern\Interpreter Pattern.csproj", "{DB982EDF-7809-41C7-9708-29D7F3777662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator Pattern", "Iterator Pattern\Iterator Pattern.csproj", "{44EF5F2A-EF7B-49BC-8E42-533D135CCA1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DB982EDF-7809-41C7-9708-29D7F3777662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB982EDF-7809-41C7-9708-29D7F3777662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB982EDF-7809-41C7-9708-29D7F3777662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EF5F2A-EF7B-49BC-8E42-533D135CCA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EF5F2A-EF7B-49BC-8E42-533D135CCA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EF5F2A-EF7B-49BC-8E42-533D135CCA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EF5F2A-EF7B-49BC-8E42-533D135CCA1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
