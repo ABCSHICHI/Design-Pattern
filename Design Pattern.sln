@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State Pattern", "State Patt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null Object Pattern", "Null Object Pattern\Null Object Pattern.csproj", "{1B08DE71-6312-4B12-9659-60CC83711E10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.csproj", "{6989A849-62D7-4B20-AFB2-27A50F42E536}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{1B08DE71-6312-4B12-9659-60CC83711E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B08DE71-6312-4B12-9659-60CC83711E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B08DE71-6312-4B12-9659-60CC83711E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6989A849-62D7-4B20-AFB2-27A50F42E536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6989A849-62D7-4B20-AFB2-27A50F42E536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6989A849-62D7-4B20-AFB2-27A50F42E536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6989A849-62D7-4B20-AFB2-27A50F42E536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
