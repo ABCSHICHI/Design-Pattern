@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\State Pattern\bin\Debug\State Pattern.exe.config
+F:\设计模式\Design Pattern\State Pattern\bin\Debug\State Pattern.exe
+F:\设计模式\Design Pattern\State Pattern\bin\Debug\State Pattern.pdb
+F:\设计模式\Design Pattern\State Pattern\obj\Debug\State Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\State Pattern\obj\Debug\State Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\State Pattern\obj\Debug\State Pattern.exe
+F:\设计模式\Design Pattern\State Pattern\obj\Debug\State Pattern.pdb
