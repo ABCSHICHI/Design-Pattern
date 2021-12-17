@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Business Delegate Pattern\bin\Debug\Business Delegate Pattern.exe.config
+F:\设计模式\Design Pattern\Business Delegate Pattern\bin\Debug\Business Delegate Pattern.exe
+F:\设计模式\Design Pattern\Business Delegate Pattern\bin\Debug\Business Delegate Pattern.pdb
+F:\设计模式\Design Pattern\Business Delegate Pattern\obj\Debug\Business Delegate Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Business Delegate Pattern\obj\Debug\Business Delegate Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Business Delegate Pattern\obj\Debug\Business Delegate Pattern.exe
+F:\设计模式\Design Pattern\Business Delegate Pattern\obj\Debug\Business Delegate Pattern.pdb
