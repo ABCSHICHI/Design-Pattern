@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\MVC Pattern\bin\Debug\MVC Pattern.exe.config
+F:\设计模式\Design Pattern\MVC Pattern\bin\Debug\MVC Pattern.exe
+F:\设计模式\Design Pattern\MVC Pattern\bin\Debug\MVC Pattern.pdb
+F:\设计模式\Design Pattern\MVC Pattern\obj\Debug\MVC Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\MVC Pattern\obj\Debug\MVC Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\MVC Pattern\obj\Debug\MVC Pattern.exe
+F:\设计模式\Design Pattern\MVC Pattern\obj\Debug\MVC Pattern.pdb
