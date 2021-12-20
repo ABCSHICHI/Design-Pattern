@@ -1,0 +1,7 @@
+F:\设计模式\Design Pattern\Data Access Object Pattern\bin\Debug\Data Access Object Pattern.exe.config
+F:\设计模式\Design Pattern\Data Access Object Pattern\bin\Debug\Data Access Object Pattern.exe
+F:\设计模式\Design Pattern\Data Access Object Pattern\bin\Debug\Data Access Object Pattern.pdb
+F:\设计模式\Design Pattern\Data Access Object Pattern\obj\Debug\Data Access Object Pattern.csprojAssemblyReference.cache
+F:\设计模式\Design Pattern\Data Access Object Pattern\obj\Debug\Data Access Object Pattern.csproj.CoreCompileInputs.cache
+F:\设计模式\Design Pattern\Data Access Object Pattern\obj\Debug\Data Access Object Pattern.exe
+F:\设计模式\Design Pattern\Data Access Object Pattern\obj\Debug\Data Access Object Pattern.pdb
