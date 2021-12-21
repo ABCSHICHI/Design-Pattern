@@ -123,3 +123,12 @@
     - Target - Target 对象是请求处理程序。
     - 过滤管理器（Filter Manager） - 过滤管理器管理过滤器和过滤器链。
     - 客户端（Client） - Client 是向 Target 对象发送请求的对象。
+32. 服务定位模式（Service Locator Pattern）:
+    我们想使用 JNDI 查询定位各种服务的时候，考虑到某个服务查找 JNDI 的代价很高，服务器模式充分利用了缓存技术。
+    在某次请求某个服务时，服务定位器在 JNDI 中查找服务， 并缓存该服务对象。当再次请求服务时，服务定位器会在它的缓存中查找，
+    这样可以很大成都上提高性能
+    - 服务（Service） - 实际处理请求的服务。对这种服务的引用可以在 JNDI 服务器中查找到。
+    - Context / 初始的 Context - JNDI Context 带有对要查找的服务的引用。
+    - 服务定位器（Service Locator） - 服务定位器是通过 JNDI 查找和缓存服务来获取服务的单点接触。
+    - 缓存（Cache） - 缓存存储服务的引用，以便复用它们。
+    - 客户端（Client） - Client 是通过 ServiceLocator 调用服务的对象。
